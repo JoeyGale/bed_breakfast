@@ -19,7 +19,7 @@
 			<li class="nav-item">
 				<a class="nav-link" href="breakfast.php">Breakfast</a>
 			</li>
-			<li class="nav-item active">
+			<li class="nav-item">
 				<a class="nav-link" href="booking.php">Booking</a>
 			</li>
 			<li class="nav-item">
